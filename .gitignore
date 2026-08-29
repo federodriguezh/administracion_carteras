@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Notebooks descartables
+*.nbconvert.ipynb
+
+# Sistema
+.DS_Store
+
+# Resultados generados (pesados o efímeros)
+outputs/
